@@ -1,0 +1,992 @@
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 001.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 002.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 003.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 004.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 005.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 006.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 007.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 008.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 009.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 010.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 011.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 012.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 013.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 014.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 015.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 016.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 017.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 018.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 019.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 020.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 021.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 022.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 023.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 024.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 025.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 026.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 027.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 028.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 029.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 030.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 031.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 032.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 033.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 034.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 035.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 036.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 037.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 038.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 039.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 040.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 041.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 042.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 043.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 044.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 045.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 046.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 047.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 048.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 049.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 050.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 051.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 052.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 053.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 054.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 055.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 056.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 057.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 058.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 059.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 060.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 061.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 062.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 063.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 064.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 065.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 066.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1426 render 067.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 001.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 002.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 003.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 004.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 005.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 006.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 007.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 008.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 009.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 010.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 011.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 012.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 013.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 014.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 015.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 016.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 017.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 018.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 019.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 020.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 021.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 022.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 023.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 024.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 025.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 026.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 027.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 028.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 029.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 030.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 031.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 032.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 033.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 034.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 035.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 036.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 037.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 038.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 039.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 040.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 041.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 042.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 043.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 044.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 045.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 046.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 047.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 048.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 049.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 050.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 051.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 052.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 053.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 054.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 055.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 056.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 057.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 058.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 059.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 060.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 061.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 062.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 063.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 064.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 065.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 066.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 067.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 068.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 069.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 070.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 071.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 072.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 073.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 074.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 075.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 076.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 077.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\01-center-171023_1432 render 078.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\10_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\11_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\12_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\13_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\14_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\15_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\16_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\17_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\18_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\19_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\1_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\20_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\2_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\3_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\4_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\5_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\6_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\7_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\8_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_1_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_1_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_1_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_2_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_2_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_2_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_3_1_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_3_2_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\center\9_3_3_Center.wav	0
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 001.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 002.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 003.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 004.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 005.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 006.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 007.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 008.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 009.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 010.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 011.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 012.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 013.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 014.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 015.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 016.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 018.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 019.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 020.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 021.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 022.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 023.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 024.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 025.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 026.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 027.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 028.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 029.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 030.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 031.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 032.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 033.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 034.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 035.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 036.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 037.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 038.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 039.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 040.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 041.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 042.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 043.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 044.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 045.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 046.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 047.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 048.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 049.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 050.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 051.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 052.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 053.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 054.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 055.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 056.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 057.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 058.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 059.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 060.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 061.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 062.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 063.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 064.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 065.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 066.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 067.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1427 render 068.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 001.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 002.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 003.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 004.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 005.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 006.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 007.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 008.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 009.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 010.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 011.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 012.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 013.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 014.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 015.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 016.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 017.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 018.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 019.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 020.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 021.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 022.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 023.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 024.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 025.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 026.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 027.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 028.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 029.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 030.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 031.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 033.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 034.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 035.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 036.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 037.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 038.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 039.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 040.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 041.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 042.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 043.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 044.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 045.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 046.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 047.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 048.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 049.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 050.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 051.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 052.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 053.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 054.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 055.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 056.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 057.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 058.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 059.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 060.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 061.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 062.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 063.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 064.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 065.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 066.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 067.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 068.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 069.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 070.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 071.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 072.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 073.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\02-outer-171023_1434 render 074.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\10_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\11_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\12_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\13_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\14_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\15_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\16_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\17_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\18_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\19_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\1_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\20_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\2_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\3_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\4_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\5_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\6_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\7_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_3_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\8_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_1_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_1_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_1_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_2_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_2_2_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_2_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_3_1_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\halfedge\9_3_3_HalfEdge.wav	1
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 001.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 002.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 003.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 004.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 005.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 006.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 007.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 008.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 009.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 010.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 011.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 012.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 013.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 014.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 015.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 016.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 017.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 018.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 019.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 020.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 021.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 022.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 023.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 024.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 025.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 026.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 027.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 028.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 029.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 030.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 031.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 032.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 033.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 034.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 035.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 037.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 038.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 039.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 040.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 041.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 042.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 043.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 044.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 045.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 046.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 047.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 048.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 049.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 050.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 051.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 052.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 053.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 054.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 055.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 056.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 057.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 058.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 059.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 060.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 061.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 062.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 063.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 064.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 065.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 066.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 067.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 068.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 069.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 070.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 071.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1429 render 072.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 001.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 002.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 003.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 004.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 005.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 006.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 007.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 009.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 010.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 011.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 012.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 013.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 014.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 015.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 016.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 017.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 018.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 019.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 020.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 021.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 022.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 023.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 024.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 025.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 026.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 027.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 028.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 029.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 030.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 031.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 032.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 033.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 034.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 035.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 036.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 037.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 038.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 039.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 040.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 041.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 042.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 043.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 044.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 045.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 046.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 047.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 048.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 049.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 050.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 051.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 052.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 053.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 054.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 055.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 056.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 059.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 061.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 062.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 063.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 064.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 065.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 066.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 067.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 068.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 069.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 070.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 071.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 072.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 073.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 074.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 075.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 076.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 077.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 078.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 079.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 080.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 081.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 082.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 083.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 084.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 085.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 086.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 087.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 088.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 089.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 090.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 091.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 092.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 093.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 094.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 095.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 096.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 097.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 098.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 099.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 100.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\03-rim-171023_1436 render 101.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\10_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\11_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\12_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\13_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\14_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\15_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\16_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\17_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\18_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\19_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\1_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\20_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\2_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\3_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\4_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\5_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\6_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\7_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\8_3_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_1_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_1_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_1_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_2_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_2_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_2_3_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_3_1_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_3_2_Rimshot.wav	2
+C:\Users\Owner\Desktop\#project497\ADAM_TINDALE_DATASET\MIXED_DATASET\MixedDataSet\rimshot\9_3_3_Rimshot.wav	2
+
